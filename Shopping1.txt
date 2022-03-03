@@ -5,3 +5,4 @@ ally
 egg
 orange
 cloth
+shoes
